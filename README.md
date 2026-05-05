@@ -4,7 +4,7 @@ https://github.com/ajavadinezhad/zyrln/releases/download/v1.3.0/zyrln-1.3.0.apk
 
 لینک ویدیوی اموزش :
 https://uplod.ir/k4vgur6wjbuf/ZYRLN.mp4.htm
-پاسورد @hamvex
+پاسورد hamvex@
 
 لینک سایتها استفاده شده:
 https://dash.cloudflare.com/sign-up
